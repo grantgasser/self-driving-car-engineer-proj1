@@ -1,2 +1,5 @@
 examples/*.mp4
-test_videos/*.mp4
+test_videos/
+test_videos_output/
+.DS_Store
+.ipynb_checkpoints/
